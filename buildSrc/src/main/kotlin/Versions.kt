@@ -3,6 +3,7 @@ object Versions {
     const val kotlin = "1.5.0"
     const val timber = "4.7.1"
     const val compose = "1.1.1"
+    const val constraint = "2.0.4"
     const val coreKtx = "1.7.0"
     const val runtimeKtx = "2.4.1"
     const val activityCompose = "1.4.0"
@@ -10,4 +11,5 @@ object Versions {
     const val junitExt = "1.1.3"
     const val espressoCore = "3.4.0"
     const val hilt = "2.38.1"
+    const val navigtion = "2.4.2"
 }

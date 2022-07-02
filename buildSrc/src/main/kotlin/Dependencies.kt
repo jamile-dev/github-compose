@@ -13,6 +13,8 @@ object Deps {
     val kotlin by lazy { "org.jetbrains.kotlin:kotlin-stdlib-jdk7:${Versions.kotlin}" }
     val coreKtx by lazy { "androidx.core:core-ktx:${Versions.coreKtx}" }
     val compose by lazy { "androidx.compose.ui:ui:${Versions.compose}" }
+    val constraintCompose by lazy { "androidx.constraintlayout:constraintlayout:${Versions.constraint}" }
+    val navCompose by lazy { "androidx.navigation:navigation-compose:${Versions.navigtion}" }
     val material by lazy { "androidx.compose.material:material:${Versions.compose}" }
     val previewTooling by lazy { "androidx.compose.material:material:${Versions.compose}" }
     val runtimeKtx by lazy { "androidx.lifecycle:lifecycle-runtime-ktx:${Versions.runtimeKtx}" }

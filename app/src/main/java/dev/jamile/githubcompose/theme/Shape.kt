@@ -1,4 +1,4 @@
-package dev.jamile.githubcompose.ui.theme
+package dev.jamile.githubcompose.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

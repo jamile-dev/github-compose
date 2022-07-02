@@ -56,6 +56,7 @@ dependencies {
     implementation(Deps.material)
     implementation(Deps.previewTooling)
     implementation(Deps.activityCompose)
+    implementation(Deps.navCompose)
 
     // Hilt
     implementation(Deps.hilt)
@@ -63,6 +64,7 @@ dependencies {
 
     implementation(Deps.runtimeKtx)
     implementation(Deps.timber)
+    implementation(Deps.constraintCompose)
 
     // Test
     testImplementation(Deps.junit)

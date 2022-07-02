@@ -1,4 +1,4 @@
-package dev.jamile.githubcompose.ui.theme
+package dev.jamile.githubcompose.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
